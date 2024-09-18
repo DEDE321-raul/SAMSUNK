@@ -1,2 +1,3 @@
 # SAMSUNK
-ngok
+          >color 2
+          NGOK IS REALISME
